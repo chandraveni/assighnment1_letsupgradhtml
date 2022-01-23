@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-style: border-box;
+  }
+  html, body {
+    height: 100vh;
+    background: rgb(112, 166, 190);
+    font-family: 'Balsamiq Sans', sans-serif;
+  }
+  
+ .para1{
+     font-size: 45px;
+     color: rgb(142, 50, 207);
+ }
+ h1{
+     font-size: 75px;
+     background-color: rgb(90, 67, 153);
+     text-shadow: lightslategrey;
+ }
+ .pre1{
+     font-size: 42px;
+     background-color: rgb(145, 81, 141);
+     color: rgb(231, 228, 34);
+ }
+ .pre2{
+     font-size: 20px;
+     color: rgb(63, 59, 21);
+ }
+.tq{
+    font-size: 44px;
+    background-color: rgb(233, 153, 153);
+    color: navajowhite;
+}

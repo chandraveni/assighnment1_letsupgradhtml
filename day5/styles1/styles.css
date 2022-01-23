@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+.navbar #navlogo{
+    width: 300px;
+    padding: 50px;
+    height: 100px;
+}
+.navbar ul{
+    list-style-type: none;
+}
+.navbar{
+    background-color: #e6e6ee;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar ul li a{
+    padding: 10px;
+    color: crimson;
+    text-decoration: none;
+    font-size: 25px;
+}
+.navbar ul li a:hover{
+    color: orange;
+}
